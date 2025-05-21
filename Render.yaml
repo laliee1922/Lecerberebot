@@ -1,7 +1,0 @@
-Services.:
- - Type.: WEB
- Nom. : Lecerberebot.
-      env  : Python.
- Construire le commandement : ""
-  startCommande : Python main.py
- Plan. : Gratuit.
