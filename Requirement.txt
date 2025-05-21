@@ -1,0 +1,2 @@
+pyrogramme ==2.0.1062.0.106
+tgcrypto
