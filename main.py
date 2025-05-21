@@ -1,8 +1,8 @@
- Programme. Importation... .. Client..., filtres. Client, filtres.
- pyrogramme. Types... de messages Importation. En . Types   de balisage de clavier.    Keyboard   Types de balisage.   Markup Types. 
-..asyncio...
+ Programme. Importation.... .. Client...., filtres. Client, filtres.
+ pyrogramme. Types..... de L'importation de messages. 'importation de messages. de messages Importation. En . Types      de balisage de clavier.       Keyboard      Types de balisage.      Markup Types. 
+..
 
-api_idaPI_idapi_idapi_id_idapi__idapi_id_idapi__id_idapi_id_idapi_id_id_idapi__idapi_ide_idapi_idapi_idapi_id_idapi_id_idapi_idapi_idapi_id= 13352614
+api_idaPI_idapi_idapi_id_idapi__idapi_id_idapi_id__id_idapi_id_id_idapi__idapi_idapi_id_idapi_id__id_id_idapi_idaPI_idapi_idapi_id_idapi__idapi_id_idapi_id__id_idapi_id_id_idapi__idapi_idapi_id_idapi_id__id_id_id= 13352614
 api_hash = "7AD20D66657254A3D569AA74572F77B0"
 bot_token = "7796946897:AAERJwMp8cp5hDVo9Jlp45AedQGKOH9Tr08"
 admin_username = "Swiss Perseph"
@@ -15,7 +15,7 @@ ListeListe noire = [
 ]
 
 pending_users = {}
-Avertissements = {}
+ Avertissements =   {}
 
 Welcome_text = (
     "👋 Coucou, et bienvenue à toi dans *L’Enfer de Perséphone*, un espace d’échange où "
