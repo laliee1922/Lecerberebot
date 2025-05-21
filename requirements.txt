@@ -1,2 +1,2 @@
-pyrogram==2.0.106rc1
+pyrogram==2.0.100
 tgcrypto
